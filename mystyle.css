@@ -1,0 +1,24 @@
+BODY
+{
+    BACKGROUND: black
+}
+.clock
+{
+    FONT-FAMILY: Orbitron;
+    POSITION: absolute;
+    COLOR: #17d4fe;
+    LEFT: 50%;
+    LETTER-SPACING: 12px;
+    TOP: 50%;
+    transform: translateX(-50%) translateY(-50%)
+}
+.clock1
+{
+    FONT-FAMILY: Snap ITC;
+    POSITION: absolute;
+    COLOR: #ff0000;
+    LEFT: 30%;
+    LETTER-SPACING: 12px;
+    TOP: 30%;
+    transform: translateX(98%) translateY(-50%)
+}
